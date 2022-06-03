@@ -47,6 +47,6 @@ app.get('/api/:name', (req, res) => {
     }
 })
 
-app.listen(PORT, (req, res) => {
+app.listen(process.env.PORT || PORT, (req, res) => {
     console.log(`The server is runnong on ${PORT}.`);
 })
