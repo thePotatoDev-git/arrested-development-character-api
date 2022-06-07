@@ -31,6 +31,16 @@ const characters = {
         'occupation': 'Anal-rapist, actor',
         'quote': 'I think I just blue myself.'
     },
+    'george': {
+        'name': 'George Bluth Sr.',
+        'occupation': 'Former CEO of the Bluth Company',
+        'quote': 'There\'s always money in the banana stand.'
+    },
+    'lucille': {
+        'name': 'Lucille Bluth',
+        'occupation': 'None',
+        'quote': 'I mean it\'s one banana, Michael. What could it cost? 10 dollars?'
+    },
     'unknown': {
         'name': 'unknown',
         'occupation': 'unknown',
