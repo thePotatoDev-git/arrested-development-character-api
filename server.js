@@ -51,6 +51,36 @@ const characters = {
         'occupation': 'Accidental Studio Executive',
         'quote': "Marry me!"
     },
+    'barry zuckerkorn': {
+        'name': 'Barry Zuckerkorn',
+        'occupation': 'Lawyer',
+        'quote': 'Those are balls.'
+    },
+    'lucille austero': {
+        'name': 'Lucille Austero, Lucille Two',
+        'occupation': 'Wealthy widow',
+        'quote': 'Excuse me, but I thought my AARP was good for one and a guest.'
+    },
+    'ann veal': {
+        'name': 'Ann Veal, Egg, Plant, Bland, Her?',
+        'occupation': 'High schoool student',
+        'quote': 'You must teach me, George Michael. You must teach me the ways of the secular flesh.'
+    },
+    'tony wonder': {
+        'name': 'Tony Wonder',
+        'occupation': 'Magician',
+        'quote': 'Did somebody say Wonder?'
+    },
+    'steve holt': {
+        'name': 'Steve Holt',
+        'occupation': 'High school student',
+        'quote': 'Steve Holt!'
+    },
+    'annyong bluth': {
+        'name': 'Annyong Bluth, Hello',
+        'occupation': 'High school student',
+        'quote': 'Annyong.'
+    },
     'unknown': {
         'name': 'unknown',
         'occupation': 'unknown',
